@@ -16,7 +16,6 @@ Inspired by visual perception and the “binding problem” in neuroscience, the
 - 📊 100% Python + NumPy logic  
 - 🎞️ Exportable to GIF or MP4  
 - 🧠 Visual metaphor for perceptual and mathematical harmony  
-- 💡 Inspired by the work of artist @yuruyurau on X/Twitter
 
 ---
 
